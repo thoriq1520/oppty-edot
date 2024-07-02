@@ -171,11 +171,11 @@ pemilihan teknologi disebabkan karena beberapa alasan
 
 ## Diagram
 Saga Pattern
-![Alt text](Img\saga.png "Saga")
+![Alt text]( https://github.com/thoriq1520/oppty-edot/blob/main/Img/saga.png "Saga")
 
 
 Hexagonal Layerd
-![Alt text](Img\Hexagonal.png "Hexagonal Layerd")
+![Alt text](https://github.com/thoriq1520/oppty-edot/blob/main/Img/Hexagonal.png?raw=true "Hexagonal Layerd")
 
 Hexagonal Diagram
-![Alt text](Img\hexa.png "Hexagonal Diagram")
+![Alt text](https://github.com/thoriq1520/oppty-edot/blob/main/Img/hexa.png "Hexagonal Diagram")
