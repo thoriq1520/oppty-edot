@@ -1,5 +1,5 @@
 Thoriq Fadhilah A
-
+---
 ## User Service (user dan admin)
 
 Entity: user
@@ -52,11 +52,11 @@ Login: User/admin dapat login
 
 Update Profile: User/Admin mengupdate profil
 
----
 
 Alur Untuk User : User melakukan registrasi terlebih dahulu setelah berhasil melakukan regis user sign in, user berada pada halaman pertama lalu ke halaman profil, user dapat melakukan update profil
 
 Alur untuk Admin: admin tidak perlu melakukan registrasi, langsung masuk ke login, dan admin juga dapat melakukan update profil
+
 
 ## Event Service (admin/user)
 
@@ -171,11 +171,11 @@ pemilihan teknologi disebabkan karena beberapa alasan
 
 ## Diagram
 Saga Pattern
-![Alt text]( https://github.com/thoriq1520/oppty-edot/blob/main/Img/saga.png "Saga")
+![Alt text]( https://github.com/thoriq1520/oppty-edot/blob/main/Img/saga.png?raw=true "Saga")
 
 
 Hexagonal Layerd
 ![Alt text](https://github.com/thoriq1520/oppty-edot/blob/main/Img/Hexagonal.png?raw=true "Hexagonal Layerd")
 
 Hexagonal Diagram
-![Alt text](https://github.com/thoriq1520/oppty-edot/blob/main/Img/hexa.png "Hexagonal Diagram")
+![Alt text](https://github.com/thoriq1520/oppty-edot/blob/main/Img/hexa.png?raw=true "Hexagonal Diagram")
